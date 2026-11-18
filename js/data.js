@@ -1,7 +1,7 @@
 /*
  * Courtside sample data
  * ---------------------
- * A fully fictional basketball league, simulated game-by-game from a fixed
+ * A basketball league simulated game-by-game from a fixed
  * seed so every visitor sees the same season. Change SEED for a new season.
  * Every number in the app is derived from these box scores, so standings,
  * leaders and charts always agree with each other.

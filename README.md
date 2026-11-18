@@ -1,6 +1,6 @@
 # Courtside: Basketball Stats Dashboard
 
-An interactive stats dashboard for a fictional basketball league: standings, league leaders, sortable player stats, player profiles with game logs, team trend charts and head-to-head comparisons.
+An interactive stats dashboard for a simulated basketball league: standings, league leaders, sortable player stats, player profiles with game logs, team trend charts and head-to-head comparisons.
 
 **No frameworks, no chart libraries, no build step.** Everything is vanilla JavaScript, CSS and hand-drawn SVG.
 
@@ -47,4 +47,4 @@ Both host static sites for free: create a project, upload or connect the repo, a
 - Change the colors in the `:root` tokens at the top of `styles.css`.
 
 ---
-All teams, players and statistics are fictional.
+Design inspiration. Teams, players and statistics are simulated.
