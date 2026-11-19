@@ -47,4 +47,4 @@ Both host static sites for free: create a project, upload or connect the repo, a
 - Change the colors in the `:root` tokens at the top of `styles.css`.
 
 ---
-Design inspiration. Teams, players and statistics are simulated.
+Prototype. Teams, players and statistics are simulated.
