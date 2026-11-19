@@ -94,6 +94,8 @@ button, input, select { font: inherit; color: inherit; }
 }
 .icon-btn svg { width: 18px; height: 18px; stroke: var(--ink); stroke-width: 1.8; fill: none; stroke-linecap: round; }
 .icon-btn:hover { background: var(--surface-2); }
+.back-link { display: inline-flex; align-items: center; gap: 6px; min-height: 38px; padding: 0 14px 0 10px; margin-right: -12px; border-radius: 999px; font-weight: 600; font-size: 14px; color: var(--ink-2); text-decoration: none; white-space: nowrap; }
+.back-link:hover { color: var(--ink); background: var(--surface-2); }
 
 /* ============ Layout ============ */
 main { max-width: 1200px; margin: 0 auto; padding: 8px 24px 40px; }
@@ -342,7 +344,8 @@ dialog[open] { animation: pop .22s ease both; }
   .top-inner { flex-wrap: wrap; padding: 10px 16px; gap: 10px; }
   .tabs { order: 3; margin-left: 0; width: 100%; overflow-x: auto; justify-content: space-between; }
   .tabs a { padding: 6px 10px; flex: 1; text-align: center; }
-  .icon-btn#theme-btn { margin-left: auto; }
+  .brand { flex: 1 1 0; }
+  .back-link { margin-right: -6px; padding: 0 10px 0 8px; }
   main { padding: 0 16px 32px; }
   .foot { padding: 8px 16px 32px; }
   .page-head { padding: 20px 0 14px; }
